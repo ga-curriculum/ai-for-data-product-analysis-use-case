@@ -1,0 +1,11 @@
+Competitor: PlanHero
+- Features: Kanban boards, team chat, deadline reminders, third-party integrations (Slack, Google Drive), basic time tracking.
+- Pricing: $12/user/month, no free tier.
+
+Competitor: Trackly
+- Features: Task assignments, timeline/Gantt view, document uploads, calendar sync, mobile app.
+- Pricing: $9/user/month, free tier limited to 3 projects.
+
+Competitor: QuickCollab
+- Features: Project templates, real-time editing, unlimited guests, workflow automation, custom fields.
+- Pricing: $15/user/month, free trial available.

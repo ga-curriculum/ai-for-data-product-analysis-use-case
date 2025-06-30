@@ -1,21 +1,19 @@
 <h1>
   <span class="prefix"></span>
-  <span class="headline">[tktk Headline]</span>
+  <span class="headline">AI for Data: Product Analytics</span>
 </h1>
 
 ## About
 
-tktk Write a short but descriptive summary of the content in this module.
+This focused, hands-on module gives you practical GenAI skills for real-world product analytics. You’ll use AI tools to analyze mixed product data, surface market gaps, generate customer personas, and propose actionable product opportunities—all in one intensive session.
 
 ## Content
 
 | Lesson | Est. Delivery Time | Skills |
 | ------ |:------------------:| ------ |
-| [Setup](./setup/README.md)                          | -- | Set up the development environment. |
-| [Concepts](./concepts/README.md)                    | -- | tktk Skills to cover                |
-| [tktk Microlesson Name](./microlesson-01/README.md) | -- | tktk Skills to cover                |
-| [tktk Microlesson Name](./microlesson-02/README.md) | -- | tktk Skills to cover                |
-| **Total content**                                   | -- |                                     |
+| [Setup](./setup/README.md)               | 5 min  | Download files and access the environment. |
+| [Lab: Market Gap + Persona Opportunity Scan](./microlesson-01/README.md) | 70 min | Use GenAI for workflow mapping, prompt design, multi-source synthesis, and opportunity discovery. |
+| **Total content**                                   | 75 min |                                     |
 
 ## References
 
@@ -25,32 +23,26 @@ tktk Write a short but descriptive summary of the content in this module.
 
 ### Prerequisites
 
-- tktk
-- tktk
-- tktk
+- Intro to Python or equivalent experience
+- Basic understanding of product analysis or customer feedback
+- Access to a GenAI tool (ChatGPT, Gemini, Claude, etc.)
 
 ### Starter code
 
-tktk If there is not a starter code repo that students will use to start this lesson, then this section and all of its content should be removed.
-
-🟢 [Starter code](https://git.generalassemb.ly/modular-curriculum-all-courses/tktk)
+🟢 [Starter code](https://git.generalassemb.ly/modular-curriculum-all-courses/ai-for-data-product-analytics-starter)
 
 ### Solution code
 
-tktk If there is not solution code related to this module this section and all of its content should be removed.
-
-🏁 [Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/tktk)
+🏁 [Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/ai-for-data-product-analytics-solutions)
 
 ### Deployed site
 
-tktk If there is not a deployed site related to this module this section and all of its content should be removed.
-
-🌐 [Live site](https://generalassemb.ly/tktk)
+🌐 [Live site](https://generalassemb.ly/ai-for-data-product-analytics)
 
 ### Course landing pages
 
-- [tktk-course-acronym - tktk Course Full Name](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/tktk-module-name/canvas-landing-pages/tktk-course-acronym.html)
-- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/tktk-module-name/canvas-landing-pages/fallback.html)
+- [AID-PA - AI for Data: Product Analytics](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/ai-for-data-product-analytics/canvas-landing-pages/AID-PA.html)
+- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/ai-for-data-product-analytics/canvas-landing-pages/fallback.html)
 
 ### Resources
 
