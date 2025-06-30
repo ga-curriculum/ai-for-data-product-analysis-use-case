@@ -1,0 +1,200 @@
+[Support Case #8721]
+User: Hi, is there a way to get alerts in Slack when a deadline is near?
+Support: Thanks for asking! We don't support Slack alerts yet, but it's on our roadmap.
+
+[Support Case #8722]
+User: Can't upload files on mobile. Is there a fix coming?
+Support: Sorry for the trouble! We're working on an update for mobile attachments.
+
+[Support Case #8723]
+User: Any plans to add two-factor authentication for sign-in?
+Support: Great question! 2FA is under consideration for future security upgrades.
+
+[Support Case #8724]
+User: Project templates are great, but can I make my own?
+Support: Custom templates are not supported yet, but it’s a popular request.
+
+[Support Case #8725]
+User: How do I bulk edit tasks? Can't find this option.
+Support: Thanks for reaching out. Bulk edit is not available right now, but we're exploring it.
+
+[Support Case #8726]
+User: The app is lagging when my team edits the same project.
+Support: Sorry to hear that. We’re investigating performance for real-time editing.
+
+[Support Case #8727]
+User: Is there an API? We want to automate some workflows.
+Support: Our API is in development! Stay tuned for updates.
+
+[Support Case #8728]
+User: Need to assign a task to more than one person.
+Support: Multi-assignee is not yet supported, but it’s a top feature request.
+
+[Support Case #8729]
+User: Billing seems off this month. Can you check?
+Support: We'll connect you with our billing team right away.
+
+[Support Case #8730]
+User: Do you integrate with Outlook calendar?
+Support: We currently support Google Calendar, but Outlook sync is coming soon.
+
+[Support Case #8731]
+User: I’d like to export reports to PDF. Is that possible?
+Support: Exports are currently limited to CSV, but PDF is in our backlog.
+
+[Support Case #8732]
+User: How do I set recurring tasks?
+Support: Recurring tasks aren't available yet, but it’s a popular request.
+
+[Support Case #8733]
+User: Can I color-code cards in Kanban view?
+Support: Not yet, but customization is on our feature roadmap.
+
+[Support Case #8734]
+User: Why did my project archive disappear?
+Support: Sorry for the inconvenience. We’re working to improve project archiving.
+
+[Support Case #8735]
+User: Can you support SSO for enterprise users?
+Support: SSO is in beta for select clients—contact us if you’d like early access.
+
+[Support Case #8736]
+User: Notifications are overwhelming—can I set preferences?
+Support: You can adjust some notifications now; more controls are coming soon.
+
+[Support Case #8737]
+User: Can't invite guests from outside our company.
+Support: Currently, guest invites are limited, but we plan to expand this.
+
+[Support Case #8738]
+User: Where can I find onboarding guides?
+Support: Here’s a link to our latest onboarding videos and docs.
+
+[Support Case #8739]
+User: Mobile app keeps crashing on Android 13.
+Support: We’re investigating crashes on Android 13 and appreciate your report.
+
+[Support Case #8740]
+User: Are private projects possible?
+Support: Private projects are available on premium plans.
+
+[Support Case #8741]
+User: Can I label tasks as “urgent”?
+Support: Task labeling is available in Settings—let us know if you need help.
+
+[Support Case #8742]
+User: How do I restore a deleted task?
+Support: Deleted tasks can be recovered from the Trash within 7 days.
+
+[Support Case #8743]
+User: How do I sync with Dropbox?
+Support: You can link Dropbox in the Integrations tab.
+
+[Support Case #8744]
+User: My desktop notifications are delayed.
+Support: We’re aware of this and are optimizing notifications this quarter.
+
+[Support Case #8745]
+User: Can you add a dark mode?
+Support: Dark mode is coming soon—thanks for your feedback!
+
+[Support Case #8746]
+User: Support was slow to respond last week.
+Support: We're sorry for the delay. We're adding more staff to improve response times.
+
+[Support Case #8747]
+User: Is chat available in all plans?
+Support: In-app chat is included in all paid plans.
+
+[Support Case #8748]
+User: Can I print out my project timeline?
+Support: You can export the timeline to CSV for printing right now.
+
+[Support Case #8749]
+User: How do I create custom fields for tasks?
+Support: Custom fields are available in Settings under “Tasks.”
+
+[Support Case #8750]
+User: How can I change the workspace color theme?
+Support: Color theme options are in your Profile settings.
+
+[Support Case #8751]
+User: Integration with Google Drive is failing.
+Support: Please try disconnecting and reconnecting your Google account.
+
+[Support Case #8752]
+User: I want to pause notifications after hours.
+Support: We’re working on notification scheduling for a future update.
+
+[Support Case #8753]
+User: App UI is hard to use on tablets.
+Support: We're collecting feedback to improve our tablet experience.
+
+[Support Case #8754]
+User: Is there a way to have threads in chat?
+Support: Chat threading is planned for a later release.
+
+[Support Case #8755]
+User: Can I sync tasks to Trello?
+Support: We don’t currently integrate with Trello.
+
+[Support Case #8756]
+User: Can you help me with account recovery?
+Support: Absolutely, please follow these steps...
+
+[Support Case #8757]
+User: Timeline/Gantt is only available in the premium plan?
+Support: Correct—timeline view is a premium feature.
+
+[Support Case #8758]
+User: App is great, but need more robust reporting.
+Support: Thanks for the feedback! Advanced reporting is in development.
+
+[Support Case #8759]
+User: Can I get SMS notifications?
+Support: SMS alerts aren’t supported right now.
+
+[Support Case #8760]
+User: SSO not working with our identity provider.
+Support: Please email us your provider details and we’ll investigate.
+
+[Support Case #8761]
+User: My archived projects don’t show in search.
+Support: We’re working on improving archived project search.
+
+[Support Case #8762]
+User: When is the Mac desktop app releasing?
+Support: Desktop app for Mac is in closed beta.
+
+[Support Case #8763]
+User: Can I undo a bulk task change?
+Support: There’s no undo for bulk changes yet—use with caution.
+
+[Support Case #8764]
+User: Is there a way to favorite or pin projects?
+Support: Not currently, but project pinning is on our list.
+
+[Support Case #8765]
+User: TaskJet is sending too many reminder emails.
+Support: You can reduce reminders in your Notification settings.
+
+[Support Case #8766]
+User: Mobile permissions error when accessing files.
+Support: We’re aware and pushing a fix in the next update.
+
+[Support Case #8767]
+User: Can I copy tasks between projects?
+Support: You can duplicate tasks and then move them to other projects.
+
+[Support Case #8768]
+User: How do I invite an external reviewer to one project?
+Support: Invite as a guest—limited permissions apply.
+
+[Support Case #8769]
+User: Any plans to add Zapier integration?
+Support: Zapier integration is in our backlog.
+
+[Support Case #8770]
+User: Lost access to premium after upgrading.
+Support: Please log out and back in—if it persists, contact billing.
+
