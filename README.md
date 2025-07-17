@@ -11,10 +11,10 @@ This focused, hands-on module gives you practical GenAI skills for real-world pr
 
 | Lesson | Est. Delivery Time | Skills |
 | ------ |:------------------:| ------ |
-| [Setup](./setup/README.md)               | 5 min  | Download files and access the environment. |
 | [Lab: Market Gap + Persona Opportunity Scan](./microlesson-01/README.md) | 70 min | Use GenAI for workflow mapping, prompt design, multi-source synthesis, and opportunity discovery. |
 | **Total content**                                   | 75 min |                                     |
 
+<!--
 ## References
 
 📖 [Reference Materials](./references/README.md)
@@ -55,3 +55,10 @@ This focused, hands-on module gives you practical GenAI skills for real-world pr
 ---
 
 **Find a 👾 bug 👾 or have suggestions? [Let us know](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/module-feedback.html)!**
+-->
+
+## Prerequisites
+
+- Intro to Python or equivalent experience
+- Basic understanding of product analysis or customer feedback
+- Access to a GenAI tool (ChatGPT, Gemini, Claude, etc.)
