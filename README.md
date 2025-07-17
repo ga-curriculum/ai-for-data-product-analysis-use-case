@@ -12,7 +12,7 @@ This focused, hands-on module gives you practical GenAI skills for real-world pr
 | Lesson | Est. Delivery Time | Skills |
 | ------ |:------------------:| ------ |
 | [Lab: Market Gap + Persona Opportunity Scan](./microlesson-01/README.md) | 70 min | Use GenAI for workflow mapping, prompt design, multi-source synthesis, and opportunity discovery. |
-| **Total content**                                   | 75 min |                                     |
+| **Total content**                                   | 70 min |                                     |
 
 <!--
 ## References
