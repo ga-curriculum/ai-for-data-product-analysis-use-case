@@ -41,8 +41,8 @@ This focused, hands-on module gives you practical GenAI skills for real-world pr
 
 ### Course landing pages
 
-- [AID-PA - AI for Data: Product Analytics](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/ai-for-data-product-analytics/canvas-landing-pages/AID-PA.html)
-- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/ai-for-data-product-analytics/canvas-landing-pages/fallback.html)
+- [AID-PA - AI for Data: Product Analytics](https://ga-curriculum.github.io/ai-for-data-product-analytics/canvas-landing-pages/AID-PA.html)
+- [Fallback](https://ga-curriculum.github.io/ai-for-data-product-analytics/canvas-landing-pages/fallback.html)
 
 ### Resources
 
@@ -54,7 +54,7 @@ This focused, hands-on module gives you practical GenAI skills for real-world pr
 
 ---
 
-**Find a 👾 bug 👾 or have suggestions? [Let us know](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/module-feedback.html)!**
+**Find a 👾 bug 👾 or have suggestions? [Let us know](https://ga-curriculum.github.io/universal-resources-internal/module-feedback.html)!**
 -->
 
 ## Prerequisites
